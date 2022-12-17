@@ -27,3 +27,7 @@ shortcomings of a comprehensive, always available, production ready PKI platform
 
 ### Optional, but preferred
 4. [xclip](https://github.com/astrand/xclip)
+
+### Feature Requests
+
+TODO
